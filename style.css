@@ -1,0 +1,81 @@
+.banner{
+    width: 50%;
+}
+
+.carousel-bg{
+    background-color: rgb(254, 233, 234);
+}
+
+.description{
+    color: dimgray;
+}
+
+.price{
+    color: tomato;
+}
+
+.btn-carousel{
+    background-color: palevioletred;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+}
+
+.container{
+    margin-bottom: 50px;
+}
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cat1{
+    background-color: sandybrown;
+}
+
+.cat2{
+    background-color: seagreen;
+}
+
+.cat3{
+    background-color: blue;
+}
+
+.categories h1{
+    color: white;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+
+.card img{
+    width: 70%;
+    margin: auto;
+}
+
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+
+#subscribe{
+    height: 300px;
+    border-radius: 10px;
+}
+
+#subscribe h5{
+    color: dimgray;
+}
+
+footer{
+    text-align: center;
+}
